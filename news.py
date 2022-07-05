@@ -1,6 +1,5 @@
 import requests
 from datetime import datetime
-from pprint import pprint
 import json
 
 limit = int(input('limit of news: '))
